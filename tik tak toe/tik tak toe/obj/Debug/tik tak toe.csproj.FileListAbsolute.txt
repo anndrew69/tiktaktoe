@@ -1,0 +1,10 @@
+C:\Users\Ondra\source\repos\tik tak toe\tik tak toe\bin\Debug\tik tak toe.exe.config
+C:\Users\Ondra\source\repos\tik tak toe\tik tak toe\bin\Debug\tik tak toe.exe
+C:\Users\Ondra\source\repos\tik tak toe\tik tak toe\bin\Debug\tik tak toe.pdb
+C:\Users\Ondra\source\repos\tik tak toe\tik tak toe\obj\Debug\tik tak toe.csprojAssemblyReference.cache
+C:\Users\Ondra\source\repos\tik tak toe\tik tak toe\obj\Debug\tik_tak_toe.Properties.Resources.resources
+C:\Users\Ondra\source\repos\tik tak toe\tik tak toe\obj\Debug\tik tak toe.csproj.GenerateResource.cache
+C:\Users\Ondra\source\repos\tik tak toe\tik tak toe\obj\Debug\tik tak toe.csproj.CoreCompileInputs.cache
+C:\Users\Ondra\source\repos\tik tak toe\tik tak toe\obj\Debug\tik tak toe.exe
+C:\Users\Ondra\source\repos\tik tak toe\tik tak toe\obj\Debug\tik tak toe.pdb
+C:\Users\Ondra\source\repos\tik tak toe\tik tak toe\obj\Debug\tik_tak_toe.Piškvorky.resources
